@@ -61,9 +61,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://sumon766.github.io/art-exhibition)
+- [Live Demo Link](https://sumon766.github.io/art-exhibition/)
+- [Project Video](https://www.loom.com/share/66e8102bc1ea4ae8be55fb6bdcc2de1d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
