@@ -468,7 +468,7 @@
 }
 
 @media only screen and (max-height: 760px) {
-    .hero-container {
-        height: 100vh !important;
-    }
+  .hero-container {
+    height: 100vh !important;
+  }
 }
