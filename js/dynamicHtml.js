@@ -42,7 +42,7 @@ const speakers = [
   },
 ];
 
-const imagePath = '../images/';
+const imagePath = './images/';
 const extension = '.png';
 
 const speakersDiv = document.querySelector('.speakers');

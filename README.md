@@ -130,7 +130,7 @@ If you like this project feel free to follow me on github.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This project could not be completed without the support of Cindy Shin. Special thanks to her the excellent design.
+This project could not be completed without the support of [Cindy Shin](https://www.behance.net/adagio07). Special thanks to her for the excellent design work. Feel free to visit her [profile](https://www.behance.net/adagio07) to check out more designs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,6 +138,6 @@ This project could not be completed without the support of Cindy Shin. Special t
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/sumon766/art-exhibition/blob/exhibition-content/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

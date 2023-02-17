@@ -439,3 +439,30 @@
     margin-bottom: 12%;
   }
 }
+
+@media only screen and (max-width: 390px) and (orientation: portrait) {
+  .hero-container {
+    height: 100vh;
+    padding-bottom: 15%;
+  }
+}
+
+@media only screen and (max-width: 375px) and (orientation: portrait) {
+  .hero-container {
+    height: 100vh;
+    padding-bottom: 25%;
+  }
+}
+
+@media only screen and (max-width: 360px) and (orientation: portrait) {
+  .hero-container {
+    height: 100vh;
+    padding-bottom: 10%;
+  }
+}
+
+@media only screen and (max-width: 815px) and (min-width: 799px) {
+  .hero-container {
+    height: 66vh;
+  }
+}
